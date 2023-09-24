@@ -5,6 +5,8 @@ Python Development Intern At CodeClause
 
 Plagiarism Checker is a simple Python application built with PyQt5 and PyMuPDF that allows you to compare text content between two files, including PDF and text files, and determine the similarity percentage.
 
+![image](https://github.com/h4ckerharish/CodeClauseInternship_PlagiarismCheckerPython/assets/66734043/41644d3c-3702-4257-963f-b011e8cc5a7b)
+
 ## Features
 
 - Load two files (PDF or text) for comparison.
@@ -28,18 +30,18 @@ Before running the application, ensure you have the following dependencies insta
 ### Installation
 
 1. Clone the repository to your local machine:
-  git clone https://github.com/h4ckerharish/CodeClauseInternship_PlagiarismCheckerPython.git
-2. Open Directory
-   '''bash
+   ```bash
+   git clone https://github.com/h4ckerharish/CodeClauseInternship_PlagiarismCheckerPython.git
+3. Open Directory
+   ```bash
    cd CodeClauseInternship_PlagiarismCheckerPython
-3. Install requirements.txt
-   '''bash
+4. Install requirements.txt
+   ```bash
    pip install -r requirements.txt
 
-4. Run ChackPlag.py
-  '''bash
-  python Checklag.py
-
+5. Run ChackPlag.py
+    ```bash
+    python Checklag.py
 
 ### Usage
 
